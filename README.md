@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Web 3.0**
 
-- 👨‍💻 All of my projects are available at [jefvasquez.com](www.jefvasquez.com)
+- 👨‍💻 All of my projects are available at [jefvasquez.com](https://jefvasquez.com)
 
 - 💬 Ask me about **react and angular**
 
